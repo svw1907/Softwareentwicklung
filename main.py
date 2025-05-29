@@ -11,3 +11,4 @@ print("Sehenswürdigkeiten im Radius 1 km, Ausgehend vom Bundesgerichtshof:")
 for poi in pois:
     print("-", poi)
 
+print("Test")
